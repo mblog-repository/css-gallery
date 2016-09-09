@@ -6,5 +6,7 @@
             "email": "kiselev2008@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "intervention/image": "^2.3"
+    }
 }
